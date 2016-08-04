@@ -1,0 +1,50 @@
+_repo: The-Little-Lame-Prince_496
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Craik, Dinah Maria Mulock
+    aliases:
+    - Mulock, Dinah Maria
+    - Mulock, Miss
+    birthdate: 1826
+    deathdate: 1887
+    gutenberg_agent_id: '264'
+    url: http://www.gutenberg.org/2009/agents/264
+    wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
+description: "The Little Lame Prince and his Travelling Cloak (often published under\
+  \ its shorter title The Little Lame Prince) is a story for children written by Dinah\
+  \ Maria Mulock Craik and first published in 1875. In the story, the young Prince\
+  \ Dolor, whose legs are paralysed due to a childhood trauma, is exiled to a tower\
+  \ in a wasteland. As he grows older, a fairy godmother provides a magical travelling\
+  \ cloak so he can see, but not touch, the world. He uses this cloak to go on various\
+  \ adventures, and develops great wisdom and empathy in the process. Finally he becomes\
+  \ a wise and compassionate ruler of his own land.\nThe author's style was to stimulate\
+  \ positive feelings in her young readers so that they would be motivated to adopt\
+  \ socially correct actions in whatever circumstances they encountered. She shows\
+  \ how imagination (mediated by the cloak) can lead to empathy and enlightened morality.\
+  \ However, some critics have found a deeper theme in this story, relating to the\
+  \ restricted lives of respectable middle-class British Victorian women that enforced\
+  \ helplessness.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '496'
+  wikidata: Q7747642
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'People with disabilities -- Juvenile fiction'
+- !lcsh 'Children''s literature'
+- !lcsh 'Princes -- Juvenile fiction'
+- GITenberg
+tableOfContents: The little lame prince -- The invisible prince -- Prince Cherry --
+  The prince with the nose -- The frog-prince -- Clever Alice.
+title: The Little Lame Prince
+url: http://www.gutenberg.org/ebooks/496
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Little_Lame_Prince_and_his_Travelling_Cloak
