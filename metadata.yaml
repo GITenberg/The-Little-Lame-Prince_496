@@ -1,5 +1,8 @@
 _repo: The-Little-Lame-Prince_496
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Craik, Dinah Maria Mulock
@@ -25,6 +28,8 @@ description: "The Little Lame Prince and his Travelling Cloak (often published u
   \ However, some critics have found a deeper theme in this story, relating to the\
   \ restricted lives of respectable middle-class British Victorian women that enforced\
   \ helplessness.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/496#The-Little-Lame-Prince
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2006-01-16'
 gutenberg_type: Text
